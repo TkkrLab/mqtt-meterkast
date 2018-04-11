@@ -1,6 +1,11 @@
 ---
-title: "MQTT: Meterkast"
-date: 2018-04-11T12:22:00+01:00
+title: "MQTT: meterkast"
+date: 2018-04-11
+publishdate: 2018-04-11
+categories: [projects]
+draft: false
+keywords: [mqtt,meterkast,project]
+aliases: [/projects/mqtt-meterkast/]
 ---
 
 # MQTT: Meterkast
