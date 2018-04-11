@@ -55,5 +55,5 @@ De hardware voor dit project bestaat uit:
  - [Source code](https://github.com/tkkrlab/mqtt-meterkast)
 
 # People who worked on this project
-Friedzombie
-Renze
+- Friedzombie
+- Renze
