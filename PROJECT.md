@@ -7,6 +7,8 @@ date: 2018-04-11T12:22:00+01:00
 In de meterkast van de Tkkrlab hackerspace zijn door Friedzombie drie relais en drie energiemeters geplaatst.
 Die relais en energiemeters zijn, samen met de space- en verlichtingsschakelaars verbonden met een Arduino Ethernet.
 
+<!--more-->
+
 # Hardware
 De hardware voor dit project bestaat uit:
  - 1x Arduino Ethernet
